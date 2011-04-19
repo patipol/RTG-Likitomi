@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Analysis
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Analysis/Token.php
+END
+Analyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Analysis/Analyzer.php
+END
+TokenFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Analysis/TokenFilter.php
+END

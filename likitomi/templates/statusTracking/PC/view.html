@@ -1,0 +1,254 @@
+{% extends "PC/container.html"%}
+{% block view %}
+<div id="wrapper">
+    <div id="header">HOME<br>
+    	<!-- start Menu-->
+    <ul id="navlist">
+		<li id="active"><a href="/likitomi">Logout</a></li>
+	</ul>
+
+
+	<!-- End Menu-->
+	</div>
+<!-- endheader-->
+<!-- content-->
+	<div id="browse_crag">
+		<div class="login">
+			{{title}}
+		</div>
+	</div>
+
+
+<!--END Menu and Topbar-->
+<div id="accordion">
+
+	<h3><a href="#">Normal Plan</a></h3>
+	<div>
+		<p>
+
+<!--- table of normal plan -->
+		<table align='center' height='450' width="95%" class='tbltables' >
+	<tr>
+		<td width="45%"><a href="/likitomi/pcdetail/?eID={{eID}}&page=CR"><center>Show full CR schedule</center></a>
+		{% block crview %}
+		<!-- table CR --><center><table align=center width="90%"> 
+			<tr><td width="50%">{# left #} From: 
+	<div id="linkCR">
+			<table align=center width="100%"><!-- table left --><span class="header">
+			<thead><tr bgcolor="#cccccc" width="100%"><th width="10%" rowspan="2"></th><td width="10%"><b> Sch.IN </b></td><td width="10%"> <b>Sch.OUT</b> <td width="10%"><b> Sch.pcs</b></td></td><th width="20%" rowspan="2"> Product code </th><th width="10%" rowspan="2"> Due</th></tr>
+			<tr bgcolor="#cccccc"><th align="right">Act.IN</th><th align="right">Act.OUT</th><th align="right">Act.pcs</th></tr></thead>
+			</span>
+			{% for start,end,product,actual_start,actual_end,days_left,plan_amount,actual_amount_cr in items_plan_cr %}
+			<tr class="{% cycle 'rowCR1' 'rowCR2' 'rowCR3' as rowcountCR %}" onClick="HighLightTR('{{rowcountCR}}','#c9cc99','cc3333','{{product}}');showDetail('#loadPageCR','/likitomi/display/?product={{product}}');">
+			<td rowspan="2">{% if cr == product %} > {% endif %}</td>
+			<td>{{start|time:"H:i"}}</td>
+			<td>{{ end|time:"H:i" }}</td>
+			<td>{{plan_amount}} </td>
+			<td rowspan="2" align="center"><p class="tbunderline">{{product}}</p></td>
+			<td rowspan="2"><p class="tbunderline">{{days_left}}</p></td>
+			</tr>
+			<tr class="{{ rowcountCR }}" onClick="HighLightTR('{{rowcountCR}}','#c9cc99','cc3333','{{product}}'); showDetail('#loadPageCR','/likitomi/display/?product={{product}}');" >
+			<td><p class="tbsgunderline">
+				{% if actual_start != NULL %}
+				{{actual_start|time:"H:i" }}
+				{% else %} 
+				<font color="white"> </font>
+				{% endif %}
+			</p></td>
+			<td><p class="tbsgunderline">				
+				{% if actual_end != NULL%}
+				{{actual_end|time:"H:i" }}
+				{% else %}
+				<font color="white">  </font>
+				{% endif %}
+
+			</p></td>
+			<td><p class="tbsgunderline">
+				{% if plan_amount > actual_amount_cr %}
+				<font color="red">{{actual_amount_cr}}</font>
+				{% else %}{% if actual_amount_cr != NULL%}
+				{{actual_amount_cr}}
+				{% else %}
+				0
+				{% endif %}{% endif %}
+
+			</p></td>
+			</tr></a>
+			{% endfor %}
+			</table> <!-- end table left -->
+			</center></div>
+			
+			</td><td width="50%" bgColor="#F8F8F8"><table><div id="loadPageCR"> {# right #} << Please Click in order to see Product Detail </div></table></td></tr>
+
+			</table><!-- end table CR -->
+		{% endblock%}
+		</td> <td><a href="/likitomi/pcdetail/?eID={{eID}}&page=CV"><center>Show full CV schedule</center></a><center>
+		<table align=center width="90%">
+
+			<tr  height="5"><td width="60%">{# left #}
+			
+			<div id="linkCV">
+			<table align=center width="100%"><span class="header">
+			<thead><tr width="100%" align=center bgcolor="#cccccc"><th width="10%" rowspan="2" height="20"></th><td width="25%" align="left"><b>Sch.IN</b></td><td width="25%" align="left"><b>Sch.OUT</b></td><th width="30%" rowspan="2"> Product code </th><th width="5%" rowspan="2"> Mac. </th><th rowspan="2">From</th><th width="10%" rowspan="2"> Due</th></tr>
+			<tr width="100%" align=center bgcolor="#cccccc"><th align="right">Act.IN</th><th align="right">Act.OUT</th></tr></thead>
+			{% for start,end,product,actual_start,actual_end,previous_section,cv_machine in items_plan_cv %}
+			<tr class="{% cycle 'rowCV1' 'rowCV2' 'rowCV3' as rowcountCV %}" onClick="HighLightTR('{{rowcountCV}}','#c9cc99','cc3333','{{product}}'); showDetail('#loadPageCV','/likitomi/display/?product={{product}}');">
+			<td rowspan="2" height="20">{% if cvThreeCL == product or cvThreeCS == product or cvTwoCL == product %} > {% endif %} </td><td> {{start|time:"H:i"}}</td><td> {{end|time:"H:i"}}</td>
+<td rowspan="2"><p class="tbunderline">{{product}}</p></td>
+<td rowspan="2"><p class="tbunderline">{{previous_section}}<br></p></td>
+<td rowspan="2"><p class="tbunderline">{{cv_machine}}<br></p></td>
+<td rowspan="2"><p class="tbunderline">##<br></p></td></tr>
+			<tr class="{{ rowcountCV }}" onClick="HighLightTR('{{rowcountCV}}','#c9cc99','cc3333','{{product}}'); showDetail('#loadPageCV','/likitomi/display/?product={{product}}');">
+			<td><p class="tbsgunderline">
+				{% if actual_start != NULL %}
+				{{actual_start|time:"H:i" }}
+				{% else %} 
+				<font color="white">-</font>
+				{% endif %}
+			</p></td>
+			<td><p class="tbsgunderline">				
+				{% if actual_end != NULL%}
+				{{actual_end|time:"H:i" }}
+				{% else %}
+				<font color="white">-</font>
+				{% endif %}
+
+			</p></td>
+			</tr>
+			{% endfor %}
+			</table></div>
+			
+			</td><td width="40%"  bgColor="#F8F8F8"><table width="100%"> <div id="loadPageCV">{# right #} << Please Click in order to see Product Detail</div> </table></td></tr>
+			</table>
+<!-- end cv table -->
+		</center>
+		</td>		
+	</tr>
+	<tr>
+		<td><a href="/likitomi/pcdetail/?eID={{eID}}&page=PT"><center>Show full PT schedule</center></a>
+		<!-- start pt table --><center>
+		<table align=center width="95%">
+			
+			<tr><td width="50%">{# left #}
+			<div id="linkPT">
+			<table align=center width = 100%><span class="header">
+			<thead><tr width="100%" align=center bgcolor="#cccccc"><th width="10%" rowspan="2"></th><td width="25%" align="left"><b>Sch.IN</b></td> <td width="25%" align="left"><b>Sch.OUT </b></td><th width="30%" rowspan="2"> Product code </th><th width="10%" rowspan="2|time:"H:i""> From </th><th width="10%" rowspan="2"> Due</th></tr>
+			<tr width="100%" align=center bgcolor="#cccccc"><th align="right">Act.IN</th><th align="right">Act.OUT</th></tr></span></thead>
+			{% for start,end,product,actual_start,actual_end,previous_section in items_plan_pt %}
+			<tr class="{% cycle 'rowPT1' 'rowPT2' 'rowPT3' as rowcountPT %}" onClick="HighLightTR('{{rowcountPT}}','#c9cc99','cc3333','{{product}}');  showDetail('#loadPagePT','/likitomi/display/?product={{product}}');"><td rowspan="2" height="20"> {% if pt == product %} > {% endif %} </td><td> {{start|time:"H:i"}}</td><td> {{end|time:"H:i"}}</td>
+<td rowspan="2"><p class="tbunderline">{{product}}<br></p></td>
+<td rowspan="2"><p class="tbunderline">{{previous_section}}<br></p></td>
+<td rowspan="2"><p class="tbunderline">##</p></td>
+</tr>
+			<tr class="{{ rowcountPT }}" onClick="HighLightTR('{{rowcountPT}}','#c9cc99','cc3333','{{product}}');  showDetail('#loadPagePT','/likitomi/display/?product={{product}}');">
+			<td><p class="tbsgunderline">
+				{% if actual_start != NULL %}
+				{{actual_start|time:"H:i" }}
+				{% else %} 
+				<font color="white">-</font>
+				{% endif %}
+			</p></td>
+			<td><p class="tbsgunderline">				
+				{% if actual_end != NULL%}
+				{{actual_end|time:"H:i" }}
+				{% else %}
+				<font color="white">-</font>
+				{% endif %}
+
+			</p></td>
+			</tr>
+			{% endfor %}
+			</table></div>
+			
+			</td><td width="50%"  bgColor="#F8F8F8"><table width="100%"><div id="loadPagePT"> {# right #} << Please Click in order to see Product Detail</div></table></td>
+
+			</td>
+			</table></center>
+		<!-- end pt table -->
+		</td> <td> <a href="/likitomi/pcdetail/?eID={{eID}}&page=WH"><center>Show full WH schedule</center></a>
+		{% block whview %}
+		<!-- start wh table--><center>
+		<table align="center" width="80%"> 
+
+			<td width="50%"> {# left #}
+			<div id="linkWH">
+			<table align=center width = 100%><span class="header">
+			<thead><tr width="100%" align=center bgcolor="#cccccc"><th width="10%" rowspan="2"></th><td width="25%" align="left"><b>Sch.IN</b></td><th width="35%" rowspan="2"> Product code </th><th width="30%" rowspan="2">From</th><th width="10%" rowspan="2"> Due</th></tr>
+			<tr width="100%" align=center bgcolor="#cccccc"><th align="right">Act.IN</th></tr></span></thead>
+			{% for start,product,actual_start,process1,process2,process3 in items_plan_wh %}
+			<tr class="{% cycle 'rowWH1' 'rowWH2' 'rowWH3' as rowcountWH %}" onClick="HighLightTR('{{rowcountWH}}','#c9cc99','cc3333','{{product}}');showDetail('#loadPageWH','/likitomi/display/?product={{product}}');"><td rowspan="2"  height="20"> {{num}}{% if wh == start %} > {% endif %} </td><td> {{start|time:"H:i"}}</td>
+<td rowspan="2"><p class="tbunderline">{{product}}<br></p></td>
+<td rowspan="2"><p class="tbunderline">{% if process3 != NULL%} {{process3}} {% else %}{% if process2 != NULL %} {{process2}}{% else %}{% if process1 != NULL %} {{process1}} {% endif %}{% endif %}{% endif %}<br></p></td>
+<td rowspan="2"><p class="tbunderline">##<br></p></td>
+</tr>
+			<tr class="{{ rowcountWH }}" onClick="HighLightTR('{{rowcountWH}}','#c9cc99','cc3333','{{product}}');showDetail('#loadPageWH','/likitomi/display/?product={{product}}');"" >
+			<td><p class="tbsgunderline">
+				{% if actual_start != NULL %}
+				{{actual_start|time:"H:i" }}
+				{% else %} 
+				<font color="white">-</font>
+				{% endif %}
+			</p></td>
+			</td></tr>
+			{% endfor %}
+			</table>			
+			</div>
+			</td>
+			<td width="50%" bgColor="#F8F8F8"><table width="100%"><div id="loadPageWH"> {# right #} << Please Click in order to see Product Detail </div></table>
+			</td>
+			</tr>
+			</table></center>
+		<!-- end wh table-->
+		{% endblock%}
+		</td>
+	</tr>
+
+</table>
+<!-- end table of normal plan -->
+		</p>
+	</div>
+
+	<h3><a href="#">Not Process</a></h3>
+	<div>
+<div align="right"><Form action="/" id="searchDate">From: <input type="text" name="from" id="datepickerFrom"><input type="hidden" id="userID" value="{{eID}}" /> To: <input type="text" name="to" id="datepickerTo">&nbsp;&nbsp;<input type="submit" value="Submit"/></Form> </div><br>
+		 <div id="result"></div>
+		<script>
+		  // attach a submit handler to the form
+		  $("#searchDate").submit(function(event) {
+
+		    // stop form from submitting normally
+		    event.preventDefault(); 
+		    var eID = $("#userID").val();
+		    // get some values from elements on the page:
+		    var $form = $( this ),
+			termFrom = $form.find( 'input[name="from"]' ).val(),
+			termTo = $form.find( 'input[name="to"]' ).val(),
+			url = $form.attr( 'action' );
+		    // Send the data using post and put the results in a div
+		$.post("/likitomi/home/?eID="+eID, function(data){
+		$( "#result" ).html(termFrom+" "+termTo);
+		}
+
+		    );
+		  });
+		</script>
+	</div>
+	<h3><a href="#">Missing in pcs.</a></h3>
+	<div>
+		<p>
+		Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
+		Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero
+		ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis
+		lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui.
+		</p>
+		<ul>
+			<li>List item one</li>
+			<li>List item two</li>
+			<li>List item three</li>
+		</ul>
+	</div>
+</div>
+
+</div>
+
+{% endblock %}

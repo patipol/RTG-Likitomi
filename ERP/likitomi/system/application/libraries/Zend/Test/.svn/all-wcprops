@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Test
+END
+DbStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Test/DbStatement.php
+END
+DbAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Test/DbAdapter.php
+END

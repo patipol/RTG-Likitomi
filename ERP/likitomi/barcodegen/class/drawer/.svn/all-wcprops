@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/ERP/likitomi/barcodegen/class/drawer
+END
+BCGDraw.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/ERP/likitomi/barcodegen/class/drawer/BCGDraw.php
+END
+BCGDrawJPG.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/ERP/likitomi/barcodegen/class/drawer/BCGDrawJPG.php
+END
+BCGDrawPNG.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/ERP/likitomi/barcodegen/class/drawer/BCGDrawPNG.php
+END

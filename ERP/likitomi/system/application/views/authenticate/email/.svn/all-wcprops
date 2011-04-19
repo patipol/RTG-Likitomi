@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/email
+END
+change_password_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/email/change_password_email.php
+END
+forgotten_password_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/email/forgotten_password_email.php
+END
+forgotten_password_reset_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/email/forgotten_password_reset_email.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/email/index.html
+END
+activation_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/email/activation_email.php
+END

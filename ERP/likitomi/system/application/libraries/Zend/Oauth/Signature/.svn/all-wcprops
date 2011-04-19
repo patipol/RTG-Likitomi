@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Oauth/Signature
+END
+Rsa.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Oauth/Signature/Rsa.php
+END
+SignatureAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Oauth/Signature/SignatureAbstract.php
+END
+Plaintext.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Oauth/Signature/Plaintext.php
+END
+Hmac.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Oauth/Signature/Hmac.php
+END

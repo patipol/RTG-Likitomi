@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Pdf/Cmap
+END
+TrimmedTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Pdf/Cmap/TrimmedTable.php
+END
+ByteEncoding.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Pdf/Cmap/ByteEncoding.php
+END
+SegmentToDelta.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Pdf/Cmap/SegmentToDelta.php
+END

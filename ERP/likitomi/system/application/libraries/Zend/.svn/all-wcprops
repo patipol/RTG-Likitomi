@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend
+END
+Dojo.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Dojo.php
+END
+Navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Navigation.php
+END
+Crypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Crypt.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Form.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Config.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Loader.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Registry.php
+END
+Serializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Serializer.php
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Pdf.php
+END
+OpenId.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/OpenId.php
+END
+Oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Oauth.php
+END
+Gdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata.php
+END
+Ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Ldap.php
+END
+Paginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Paginator.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Debug.php
+END
+ProgressBar.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/ProgressBar.php
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Validate.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Currency.php
+END
+TimeSync.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/TimeSync.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Exception.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Locale.php
+END
+Uri.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Uri.php
+END
+Barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode.php
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Acl.php
+END
+Markup.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Markup.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Auth.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cache.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Application.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Memory.php
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Json.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/View.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Date.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Layout.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Log.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Session.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Queue.php
+END
+InfoCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/InfoCard.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Version.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Filter.php
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mime.php
+END

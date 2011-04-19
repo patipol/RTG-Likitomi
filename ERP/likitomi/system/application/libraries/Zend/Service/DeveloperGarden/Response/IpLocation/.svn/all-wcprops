@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/IpLocation
+END
+IPAddressLocationType.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/IpLocation/IPAddressLocationType.php
+END
+CityType.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/IpLocation/CityType.php
+END
+LocateIPResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/IpLocation/LocateIPResponse.php
+END
+LocateIPResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/IpLocation/LocateIPResponseType.php
+END
+RegionType.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/IpLocation/RegionType.php
+END
+GeoCoordinatesType.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/IpLocation/GeoCoordinatesType.php
+END

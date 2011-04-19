@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron
+END
+ZipCodeInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron/ZipCodeInfo.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron/Base.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron/Exception.php
+END
+USAddressVerification.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron/USAddressVerification.php
+END
+Decorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron/Decorator.php
+END
+SalesUseTaxBasic.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron/SalesUseTaxBasic.php
+END

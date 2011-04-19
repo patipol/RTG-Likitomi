@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/WindowsAzure
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/WindowsAzure/Exception.php
+END
+SessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/WindowsAzure/SessionHandler.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/WindowsAzure/Storage.php
+END

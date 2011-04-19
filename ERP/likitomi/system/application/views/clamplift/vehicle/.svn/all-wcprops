@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/clamplift/vehicle
+END
+track.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/clamplift/vehicle/track.php
+END
+scan.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/clamplift/vehicle/scan.php
+END
+scanonly.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/clamplift/vehicle/scanonly.php
+END
+locatebytext.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/clamplift/vehicle/locatebytext.php
+END

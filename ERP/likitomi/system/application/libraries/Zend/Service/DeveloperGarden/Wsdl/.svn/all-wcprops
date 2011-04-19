@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl
+END
+ODGBaseUserService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.xsd
+END
+VoiceButlerService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.xsd
+END
+SmsValidationUserService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/SmsValidationUserService.wsdl
+END
+ccsPort.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/ccsPort.wsdl
+END
+localsearch.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/localsearch.wsdl
+END
+TokenService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/TokenService.wsdl
+END
+IPLocation.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/IPLocation.wsdl
+END
+ccsPort.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/ccsPort.xsd
+END
+SmsService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/SmsService.wsdl
+END
+VoiceButlerService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.wsdl
+END
+ODGBaseUserService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.wsdl
+END
+localsearch.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/localsearch.xsd
+END
+IPLocation.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Wsdl/IPLocation.xsd
+END

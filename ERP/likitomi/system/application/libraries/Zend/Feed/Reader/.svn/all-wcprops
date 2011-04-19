@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader/Collection.php
+END
+FeedSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader/FeedSet.php
+END
+EntryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader/EntryInterface.php
+END
+FeedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader/FeedInterface.php
+END
+EntryAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader/EntryAbstract.php
+END
+FeedAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader/FeedAbstract.php
+END

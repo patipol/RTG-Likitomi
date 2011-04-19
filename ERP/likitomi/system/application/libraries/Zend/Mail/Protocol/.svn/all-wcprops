@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Protocol
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Protocol/Exception.php
+END
+Pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Protocol/Pop3.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Protocol/Abstract.php
+END
+Smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Protocol/Smtp.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Protocol/Imap.php
+END

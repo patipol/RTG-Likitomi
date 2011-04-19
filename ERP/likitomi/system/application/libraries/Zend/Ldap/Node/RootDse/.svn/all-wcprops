@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Ldap/Node/RootDse
+END
+eDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Ldap/Node/RootDse/eDirectory.php
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Ldap/Node/RootDse/ActiveDirectory.php
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Ldap/Node/RootDse/OpenLdap.php
+END

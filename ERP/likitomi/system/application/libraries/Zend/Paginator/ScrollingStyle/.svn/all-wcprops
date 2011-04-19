@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Paginator/ScrollingStyle
+END
+Jumping.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Paginator/ScrollingStyle/Jumping.php
+END
+Sliding.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Paginator/ScrollingStyle/Sliding.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Paginator/ScrollingStyle/Interface.php
+END
+Elastic.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Paginator/ScrollingStyle/Elastic.php
+END
+All.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Paginator/ScrollingStyle/All.php
+END

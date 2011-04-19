@@ -1,0 +1,123 @@
+10
+
+dir
+179
+https://rtg-likitomi.googlecode.com/svn/trunk/ERP/likitomi/system/application/libraries/Zend/Feed/Reader/Extension
+https://rtg-likitomi.googlecode.com/svn
+
+
+
+2010-12-28T14:25:50.552779Z
+110
+chanaphan.prasomwong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+73fb50ce-e502-64b5-abbe-fc10fc176274
+
+Atom
+dir
+
+Syndication
+dir
+
+DublinCore
+dir
+
+Thread
+dir
+
+Slash
+dir
+
+Content
+dir
+
+EntryAbstract.php
+file
+
+
+
+
+2011-03-25T06:58:17.201656Z
+43cbf86bb869442b86211d295264c78b
+2010-12-28T14:25:50.552779Z
+110
+chanaphan.prasomwong
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4620
+
+Podcast
+dir
+
+FeedAbstract.php
+file
+
+
+
+
+2011-03-25T06:58:17.201656Z
+18471a5963ae43b67f83999773750996
+2010-12-28T14:25:50.552779Z
+110
+chanaphan.prasomwong
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4034
+
+WellFormedWeb
+dir
+
+CreativeCommons
+dir
+

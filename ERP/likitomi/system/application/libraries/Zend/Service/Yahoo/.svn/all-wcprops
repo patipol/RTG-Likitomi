@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo
+END
+LocalResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/LocalResult.php
+END
+InlinkDataResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/InlinkDataResultSet.php
+END
+ResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/ResultSet.php
+END
+ImageResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/ImageResultSet.php
+END
+PageDataResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/PageDataResult.php
+END
+LocalResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/LocalResultSet.php
+END
+VideoResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/VideoResult.php
+END
+NewsResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/NewsResult.php
+END
+WebResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/WebResult.php
+END
+InlinkDataResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/InlinkDataResult.php
+END
+Result.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/Result.php
+END
+ImageResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/ImageResult.php
+END
+VideoResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/VideoResultSet.php
+END
+PageDataResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/PageDataResultSet.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/Image.php
+END
+NewsResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/NewsResultSet.php
+END
+WebResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo/WebResultSet.php
+END

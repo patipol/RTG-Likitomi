@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db/Adapter
+END
+Sqlsrv.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db/Adapter/Sqlsrv.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db/Adapter/Exception.php
+END
+Mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db/Adapter/Mysqli.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db/Adapter/Abstract.php
+END
+Oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db/Adapter/Oracle.php
+END
+Db2.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Db/Adapter/Db2.php
+END

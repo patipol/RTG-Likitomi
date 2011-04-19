@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse
+END
+stockbycode.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse/stockbycode.php
+END
+addform.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse/addform.php
+END
+warehouselist.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse/warehouselist.php
+END
+stockResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse/stockResult.php
+END
+warehouse.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse/warehouse.php
+END
+stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse/stock.php
+END
+warehousedetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/warehouse/warehousedetail.php
+END

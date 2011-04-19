@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Locale
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Locale/Data.php
+END
+Math.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Locale/Math.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Locale/Exception.php
+END
+Format.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Locale/Format.php
+END

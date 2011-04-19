@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service
+END
+StrikeIron.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/StrikeIron.php
+END
+ReCaptcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/ReCaptcha.php
+END
+Akismet.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Akismet.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Exception.php
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Nirvanix.php
+END
+Audioscrobbler.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Audioscrobbler.php
+END
+Technorati.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Technorati.php
+END
+Simpy.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Simpy.php
+END
+Twitter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Twitter.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Abstract.php
+END
+Flickr.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Flickr.php
+END
+LiveDocx.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/LiveDocx.php
+END
+Yahoo.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Yahoo.php
+END
+Delicious.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Delicious.php
+END
+SlideShare.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/SlideShare.php
+END
+Amazon.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/Amazon.php
+END

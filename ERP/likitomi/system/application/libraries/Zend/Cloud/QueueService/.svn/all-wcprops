@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/QueueService
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/QueueService/Exception.php
+END
+MessageSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/QueueService/MessageSet.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/QueueService/Adapter.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/QueueService/Message.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/QueueService/Factory.php
+END

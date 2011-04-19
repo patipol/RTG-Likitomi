@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Acl
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Acl/Exception.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Acl/Role.php
+END
+Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Acl/Resource.php
+END

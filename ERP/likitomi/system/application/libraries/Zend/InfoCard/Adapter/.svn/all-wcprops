@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/InfoCard/Adapter
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/InfoCard/Adapter/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/InfoCard/Adapter/Interface.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/InfoCard/Adapter/Default.php
+END

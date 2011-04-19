@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Transport
+END
+Sendmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Transport/Sendmail.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Transport/Exception.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Transport/File.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Transport/Abstract.php
+END
+Smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Mail/Transport/Smtp.php
+END

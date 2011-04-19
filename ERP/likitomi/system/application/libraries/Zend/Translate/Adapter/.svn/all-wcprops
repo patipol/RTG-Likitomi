@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter
+END
+Csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Csv.php
+END
+Tbx.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Tbx.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Array.php
+END
+Ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Ini.php
+END
+XmlTm.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/XmlTm.php
+END
+Gettext.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Gettext.php
+END
+Qt.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Qt.php
+END
+Xliff.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Xliff.php
+END
+Tmx.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Translate/Adapter/Tmx.php
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension
+END
+AttendeeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/AttendeeType.php
+END
+OpenSearchStartIndex.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/OpenSearchStartIndex.php
+END
+Who.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Who.php
+END
+AttendeeStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/AttendeeStatus.php
+END
+Recurrence.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Recurrence.php
+END
+OpenSearchItemsPerPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/OpenSearchItemsPerPage.php
+END
+When.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/When.php
+END
+Reminder.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Reminder.php
+END
+ExtendedProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/ExtendedProperty.php
+END
+OriginalEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/OriginalEvent.php
+END
+Transparency.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Transparency.php
+END
+Where.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Where.php
+END
+RecurrenceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/RecurrenceException.php
+END
+OpenSearchTotalResults.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/OpenSearchTotalResults.php
+END
+EntryLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/EntryLink.php
+END
+FeedLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/FeedLink.php
+END
+Rating.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Rating.php
+END
+EventStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/EventStatus.php
+END
+Comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Comments.php
+END
+Visibility.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/Extension/Visibility.php
+END

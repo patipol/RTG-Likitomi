@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden
+END
+BaseUserService.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/BaseUserService.php
+END
+Credential.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Credential.php
+END
+SendSms.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/SendSms.php
+END
+SmsValidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/SmsValidation.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Exception.php
+END
+SecurityTokenServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/SecurityTokenServer.php
+END
+LocalSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/LocalSearch.php
+END
+VoiceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/VoiceCall.php
+END
+IpLocation.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/IpLocation.php
+END
+ConferenceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/ConferenceCall.php
+END

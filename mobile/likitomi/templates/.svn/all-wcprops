@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates
+END
+lineCR.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/mobile/likitomi/templates/lineCR.html
+END
+submit_error.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/submit_error.html
+END
+showdet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/showdet.html
+END
+updateEndPT.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/145/trunk/mobile/likitomi/templates/updateEndPT.html
+END
+submit_error_min.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/submit_error_min.html
+END
+listPT.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/listPT.html
+END
+product.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/80/trunk/mobile/likitomi/templates/product.html
+END
+update.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/145/trunk/mobile/likitomi/templates/update.html
+END
+stock.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/stock.html
+END
+updateStartCR.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/106/trunk/mobile/likitomi/templates/updateStartCR.html
+END
+updateStartCV.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/115/trunk/mobile/likitomi/templates/updateStartCV.html
+END
+showplan.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/showplan.html
+END
+inventory.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/inventory.html
+END
+updateStartWH.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/106/trunk/mobile/likitomi/templates/updateStartWH.html
+END
+MD.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/MD.html
+END
+productDetail.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/164/trunk/mobile/likitomi/templates/productDetail.html
+END
+machine.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/145/trunk/mobile/likitomi/templates/machine.html
+END
+CR.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/CR.html
+END
+updateStartPT.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/145/trunk/mobile/likitomi/templates/updateStartPT.html
+END
+updateCR.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/145/trunk/mobile/likitomi/templates/updateCR.html
+END
+mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/62/trunk/mobile/likitomi/templates/mobile.html
+END
+CV.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/mobile/likitomi/templates/CV.html
+END
+reqhead.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/reqhead.html
+END
+clamplift.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/clamplift.html
+END
+generic.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/generic.html
+END
+WH.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/mobile/likitomi/templates/WH.html
+END
+required.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/required.html
+END
+PT.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/mobile/likitomi/templates/PT.html
+END
+scale.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/scale.html
+END
+showreq.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/showreq.html
+END
+home.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/home.html
+END
+updateCR1.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/mobile/likitomi/templates/updateCR1.html
+END
+wholeplan.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/wholeplan.html
+END
+index2.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/index2.html
+END
+plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/plan.html
+END
+content_cr.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/145/trunk/mobile/likitomi/templates/content_cr.html
+END
+updateEndCR.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/trunk/mobile/likitomi/templates/updateEndCR.html
+END
+longtry.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/longtry.html
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/footer.html
+END
+dethead.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/dethead.html
+END
+orient.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/orient.html
+END
+listCR.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/listCR.html
+END
+minclamp.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/minclamp.html
+END
+updateEndCV.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/trunk/mobile/likitomi/templates/updateEndCV.html
+END
+detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/detail.html
+END
+PC.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/PC.html
+END
+tests.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/63/trunk/mobile/likitomi/templates/tests.html
+END
+now.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/now.html
+END
+listCV.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/listCV.html
+END
+breadcrumps.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/breadcrumps.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/174/trunk/mobile/likitomi/templates/index.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/62/trunk/mobile/likitomi/templates/login.html
+END
+updateEndWH.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/90/trunk/mobile/likitomi/templates/updateEndWH.html
+END
+listWH.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/mobile/likitomi/templates/listWH.html
+END
+product_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/145/trunk/mobile/likitomi/templates/product_list.html
+END

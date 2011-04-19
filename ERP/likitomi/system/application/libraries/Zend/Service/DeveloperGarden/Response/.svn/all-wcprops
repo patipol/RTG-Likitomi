@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response
+END
+BaseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/BaseType.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/Exception.php
+END
+ResponseAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/ResponseAbstract.php
+END

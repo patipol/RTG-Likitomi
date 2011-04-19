@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/StorageService/Adapter
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/StorageService/Adapter/Nirvanix.php
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/StorageService/Adapter/WindowsAzure.php
+END
+FileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/StorageService/Adapter/FileSystem.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/StorageService/Adapter/S3.php
+END

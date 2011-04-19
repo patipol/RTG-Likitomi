@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/179/trunk/mysite/weight
+END
+clamplift_views.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/167/trunk/mysite/weight/clamplift_views.py
+END
+showplan.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/149/trunk/mysite/weight/showplan.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/152/trunk/mysite/weight/views.py
+END
+inventory.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/179/trunk/mysite/weight/inventory.py
+END
+longtry.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/59/trunk/mysite/weight/longtry.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/39/trunk/mysite/weight/__init__.py
+END
+stock_views.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/167/trunk/mysite/weight/stock_views.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/131/trunk/mysite/weight/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/mysite/weight/models.py
+END
+now.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/58/trunk/mysite/weight/now.py
+END
+scale_views.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133/trunk/mysite/weight/scale_views.py
+END
+plan_views.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/152/trunk/mysite/weight/plan_views.py
+END

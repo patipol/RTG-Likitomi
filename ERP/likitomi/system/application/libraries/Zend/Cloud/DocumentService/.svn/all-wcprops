@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService
+END
+DocumentSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService/DocumentSet.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService/Exception.php
+END
+Document.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService/Document.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService/Adapter.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService/Query.php
+END
+QueryAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService/QueryAdapter.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Cloud/DocumentService/Factory.php
+END

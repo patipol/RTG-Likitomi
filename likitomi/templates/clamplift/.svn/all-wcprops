@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift
+END
+submit_error.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/submit_error.html
+END
+showdet.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/showdet.html
+END
+submit_error_min.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/submit_error_min.html
+END
+required.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/210/trunk/likitomi/templates/clamplift/required.html
+END
+stock.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/193/trunk/likitomi/templates/clamplift/stock.html
+END
+dashboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/219/trunk/likitomi/templates/clamplift/dashboard.html
+END
+scale.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/204/trunk/likitomi/templates/clamplift/scale.html
+END
+showreq.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/showreq.html
+END
+wholeplan.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/wholeplan.html
+END
+plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/193/trunk/likitomi/templates/clamplift/plan.html
+END
+showplan.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/212/trunk/likitomi/templates/clamplift/showplan.html
+END
+inventory.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/212/trunk/likitomi/templates/clamplift/inventory.html
+END
+dethead.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/dethead.html
+END
+longtry.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/longtry.html
+END
+legend.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/204/trunk/likitomi/templates/clamplift/legend.html
+END
+minclamp.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/213/trunk/likitomi/templates/clamplift/minclamp.html
+END
+orient.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/orient.html
+END
+detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/210/trunk/likitomi/templates/clamplift/detail.html
+END
+maxclamp.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/213/trunk/likitomi/templates/clamplift/maxclamp.html
+END
+now.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/now.html
+END
+search.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/193/trunk/likitomi/templates/clamplift/search.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/209/trunk/likitomi/templates/clamplift/index.html
+END
+reqhead.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/reqhead.html
+END
+clamplift.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/181/trunk/likitomi/templates/clamplift/clamplift.html
+END

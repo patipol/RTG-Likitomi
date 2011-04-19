@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Search/QueryEntry
+END
+Subquery.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Search/QueryEntry/Subquery.php
+END
+Phrase.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Search/QueryEntry/Phrase.php
+END
+Term.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Search/QueryEntry/Term.php
+END

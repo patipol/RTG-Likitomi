@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index
+END
+Writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/Writer.php
+END
+DictionaryLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/DictionaryLoader.php
+END
+DocsFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/DocsFilter.php
+END
+SegmentInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/SegmentInfo.php
+END
+SegmentWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/SegmentWriter.php
+END
+FieldInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/FieldInfo.php
+END
+TermsPriorityQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/TermsPriorityQueue.php
+END
+TermInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/TermInfo.php
+END
+SegmentMerger.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/SegmentMerger.php
+END
+Term.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Search/Lucene/Index/Term.php
+END

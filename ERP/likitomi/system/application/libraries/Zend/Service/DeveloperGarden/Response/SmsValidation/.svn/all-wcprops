@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/SmsValidation
+END
+InvalidateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/SmsValidation/InvalidateResponse.php
+END
+ValidatedNumber.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/SmsValidation/ValidatedNumber.php
+END
+SendValidationKeywordResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/SmsValidation/SendValidationKeywordResponse.php
+END
+GetValidatedNumbersResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/SmsValidation/GetValidatedNumbersResponse.php
+END
+ValidateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Service/DeveloperGarden/Response/SmsValidation/ValidateResponse.php
+END

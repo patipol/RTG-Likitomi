@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/template_admin
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/template_admin/content.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/template_admin/footer.php
+END
+container.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/template_admin/container.php
+END
+menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/template_admin/menu.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/template_admin/index.html
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/ERP/likitomi/system/application/views/authenticate/template_admin/header.php
+END

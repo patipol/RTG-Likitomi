@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Error.php
+END
+Royalmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Royalmail.php
+END
+ObjectAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/ObjectAbstract.php
+END
+Ean8.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Ean8.php
+END
+Postnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Postnet.php
+END
+Upce.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Upce.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Exception.php
+END
+Identcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Identcode.php
+END
+Code25interleaved.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Code25interleaved.php
+END
+Code128.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Code128.php
+END
+Ean13.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Ean13.php
+END
+Code25.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Code25.php
+END
+Planet.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Planet.php
+END
+Ean2.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Ean2.php
+END
+Code39.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Code39.php
+END
+Itf14.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Itf14.php
+END
+Leitcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Leitcode.php
+END
+Ean5.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Ean5.php
+END
+Upca.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Barcode/Object/Upca.php
+END

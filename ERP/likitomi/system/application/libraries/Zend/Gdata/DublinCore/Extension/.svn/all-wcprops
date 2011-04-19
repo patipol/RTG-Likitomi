@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension
+END
+Publisher.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Publisher.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Date.php
+END
+Creator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Creator.php
+END
+Subject.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Subject.php
+END
+Rights.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Rights.php
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Title.php
+END
+Identifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Identifier.php
+END
+Language.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Language.php
+END
+Description.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Description.php
+END
+Format.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/110/trunk/ERP/likitomi/system/application/libraries/Zend/Gdata/DublinCore/Extension/Format.php
+END

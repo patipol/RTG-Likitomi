@@ -1,9 +1,11 @@
 <html>
 <head>
+<meta charset="utf-8">
 
 <title>Likitomi: Clamplift Apps</title>
 
 <link rel="stylesheet" type="text/css" href="css/smoothness/jquery-ui-1.8.10.custom.css" />
+<link rel="stylesheet" type="text/css" href="css/jALDropDown1.7.3.css" />
 <style type="text/css">
 body
 {
@@ -68,6 +70,7 @@ background-color:white;
 
 <script type="text/javascript" src="javascript/jquery.js"></script>
 <script type="text/javascript" src="javascript/jquery-ui-1.8.11.custom.min.js"></script>
+<script type="text/javascript" src="javascript/jALDropDown1.7.3.js"></script>
 <script type="text/javascript">
 function startTime()
 {
@@ -276,17 +279,23 @@ $(document).ready(function(){
 //		$("#plan, #layout, #search").hide();
 //		$("#clamplift").fadeIn().css({"width":"800px","height":"495px","top":"0px","left":"0px"});
 //	});
+
+//	$("#opdate").jALDropdown({Action:{"ActionName":"disable"}});
+
+
+
 });
 </script>
 
 </head>
 
 <body style="background-color:black;">
-
+<button id="mybtn">Button</button>
 <!--PLAN-->
 	<div id="plan" style="top:0px; left:0px; width:398px; height:403px;">
 		<div id="clock" style="top:0px; left:0px;"></div>
 		<div style="top:0px; left:100px;">{% now "Y-m-d" %}</div>
+<!--		<div style="top:35px; left:100px;" id="div1">555</div>-->
 		<div style="top:0px; left:200px;">
 			<input id="status" value="min" type="hidden" />
 			<form>
@@ -302,13 +311,13 @@ $(document).ready(function(){
 			<input type="radio" id="reqbtn" name="radio" checked="checked" /><label for="reqbtn">Required</label>
 			<input type="radio" id="detbtn" name="radio" /><label for="detbtn">Detail</label>
 		</div>
-		<div style="top:0px; right:0px;"><button id="magplan"></button></div> <!--Magnifying Button-->
-		<div style="top:35px; left:0px;"><button id="uppest"></button></div>
-		<div style="top:35px; left:185px;"><button id="upper"></button></div>
-		<div style="top:35px; right:0px;"><button id="up"></button></div>
-		<div style="bottom:0px; left:0px;"><button id="downest"></button></div>
-		<div style="bottom:0px; left:185px;"><button id="downer"></button></div>
-		<div style="bottom:0px; right:0px;"><button id="down"></button></div>
+		<div style="top:0px; right:0px;"><button id="magplan">Plan</button></div> <!--Magnifying Button-->
+		<div style="top:35px; left:0px;"><button id="uppest">Top Most</button></div>
+		<div style="top:35px; left:185px;"><button id="upper">Seek Previous</button></div>
+		<div style="top:35px; right:0px;"><button id="up">Previous</button></div>
+		<div style="bottom:0px; left:0px;"><button id="downest">Bottom Most</button></div>
+		<div style="bottom:0px; left:185px;"><button id="downer">Seek Next</button></div>
+		<div style="bottom:0px; right:0px;"><button id="down">Next</button></div>
 		<div id="phead" style="top:68px; left:0px;">
 			<table id="minhead" style="font-size:100%;">
 				<tr style="background-color:black; color:white;">
@@ -377,13 +386,13 @@ $(document).ready(function(){
 
 <!--LAYOUT-->
 	<div id="layout" style="top:42px; left:400px; width:398px; height:551px;">
-		<div style="top:0px; right:0px;"><button id="maglay"></button></div> <!--Magnifying Button-->
+		<div style="top:0px; right:0px;"><button id="maglay">Layout</button></div> <!--Magnifying Button-->
 		<iframe id="map" name="map" src="/inventory/" frameborder="0" style="width:100%; height:500px; margin-top:35px; margin-left:0px;" scrolling="no"></iframe>
 	</div>
 
 <!--CLAMPLIFT-->
 	<div id="clamplift" style="top:405px; left:0px; width:398px; height:188px;">
-		<div style="top:0px; right:0px;"><button id="magclamp"></button></div> <!--Magnifying Button-->
+		<div style="top:0px; right:0px;"><button id="magclamp">Clamplift</button></div> <!--Magnifying Button-->
 		<input id="clampsta" value="minsta" type="hidden" />
 		<iframe id="minclamp" src="/minclamp/" frameborder="0" style="width:100%; height:100%; margin-height:35px; margin-left:0px;" scrolling="no"></iframe>
 		<iframe id="maxclamp" src="/maxclamp/" frameborder="0" style="width:100%; height:100%; margin-height:0px; margin-left:0px;" scrolling="no"></iframe>
@@ -391,8 +400,8 @@ $(document).ready(function(){
 
 <!--SEARCH-->
 	<div id="search" style="top:0px; left:400px; width:398px; height:40px;">
-<!--		<div style="top:0px; right:0px;"><button id="magsearch"></button></div> <!--Magnifying Button-->
-		<table style="margin-top:0px;">
+<!--		<div style="top:0px; right:0px;"><button id="magsearch">Search</button></div> <!--Magnifying Button-->
+		<div style="top:0px; right:0px;"><table style="margin-top:0px;">
 			<tr>
 				<td>
 					<form class="ui-menu">
@@ -414,9 +423,9 @@ $(document).ready(function(){
 						</select>
 					</form>
 				</td>
-				<td colspan="2" style="vertical-align:middle;"><button id="searchbtn">Search</button></td>
+				<td colspan="2"><button id="searchbtn" style="font-size:80%;">Search</button></td>
 			</tr>
-		</table>
+		</table></div>
 	</div>
 
 <!--MENU TABS-->

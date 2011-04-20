@@ -223,7 +223,7 @@ $(document).ready(function(){
 			" style="position:absolute; left:{{w}}px;" />{% endfor %}
 		</td>
 	</tr>
-	<tr style="{% if not cpcode %}visibility:hidden;{% endif %}">
+	<tr style="{% if not cpcode or cpcode == 'undefined' %}visibility:hidden;{% endif %}">
 		<td style="text-align:left; background-image:url('images/clamplift/redgradient.png');">Clamplift: {{cpcode}}, {{cwidth}}</td>
 		<td class="nomarpad" style="text-align:left; position:absolute; height:19px;">
 			{% for w in wlistpx3 %}<img src="images/clamplift/

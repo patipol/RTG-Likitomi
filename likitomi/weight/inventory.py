@@ -18,10 +18,10 @@ def inventory(request):
 
 		if 'loss' in request.GET and request.GET['loss']:
 			loss = request.GET['loss']
-			losspx = int(loss)/5 - 5
-			if losspx > 194:
-				losspx = 200
-			lossinv = 200-losspx
+			losspx = int(loss)/5
+			if losspx > 199:
+				losspx = 205
+			lossinv = 205-losspx
 		else:
 			loss = ""
 

@@ -25,6 +25,18 @@ def inventory(request):
 		else:
 			loss = ""
 
+		if 'lossarr' in request.GET and request.GET['lossarr']:
+			lossarr = request.GET['lossarr']
+		else:
+			lossarr = ""
+		if lossarr:
+			lossplt = lossarr.split(",")
+			losslist = list()
+			for u in lossplt:
+				i = int(u)/5
+				if i > 199: i = 205
+				losslist.append(i)
+
 		if 'spcode' in request.GET and request.GET['spcode']:
 			spcode = request.GET['spcode']
 		else:

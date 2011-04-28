@@ -147,6 +147,7 @@ def minclamp(request):
 #			atposition = 5
 #			atlocation = 'Scale'
 
+			# MINCLAMP #
 			atlane = '2'
 			atposition = '2'
 			atlocation = 'Stock'
@@ -465,6 +466,7 @@ def maxclamp(request):
 #			atposition = 5
 #			atlocation = 'Scale'
 
+			# MAXCLAMP #
 			atlane = '2'
 			atposition = '2'
 			atlocation = 'Stock'

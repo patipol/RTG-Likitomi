@@ -13,8 +13,8 @@ def minclamp(request):
 
 		if operating_mode == 'real':
 
-			HOST = '192.41.170.55' # CSIM network
-#			HOST = '192.168.101.55' # Likitomi network
+#			HOST = '192.41.170.55' # CSIM network
+			HOST = '192.168.101.55' # Likitomi network
 #			HOST = '192.168.1.55' # My own local network: Linksys
 #			HOST = '192.168.2.88' # In Likitomi factory
 			PORT = 50007
@@ -330,8 +330,8 @@ def maxclamp(request):
 
 		if operating_mode == 'real':
 
-			HOST = '192.41.170.55' # CSIM network
-#			HOST = '192.168.101.55' # Likitomi network
+#			HOST = '192.41.170.55' # CSIM network
+			HOST = '192.168.101.55' # Likitomi network
 #			HOST = '192.168.1.55' # My own local network: Linksys
 #			HOST = '192.168.2.88' # In Likitomi factory
 			PORT = 50007

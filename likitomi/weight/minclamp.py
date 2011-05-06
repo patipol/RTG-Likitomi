@@ -149,10 +149,10 @@ def minclamp(request):
 
 			# MINCLAMP #
 			atlane = '2'
-			atposition = '2'
+			atposition = '4'
 			atlocation = 'Stock'
 
-			realtag = 67
+			realtag = 00
 
 # Query database from realtag #
 		if realtag:
@@ -468,10 +468,10 @@ def maxclamp(request):
 
 			# MAXCLAMP #
 			atlane = '2'
-			atposition = '2'
+			atposition = '4'
 			atlocation = 'Stock'
 
-			realtag = 67
+			realtag = 68
 
 # Query database from realtag #
 		if realtag:

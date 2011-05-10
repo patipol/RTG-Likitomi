@@ -13,8 +13,8 @@ def minclamp(request):
 
 		if operating_mode == 'real':
 
-#			HOST = '192.41.170.55' # CSIM network
-			HOST = '192.168.101.55' # Likitomi network
+			HOST = '192.41.170.55' # CSIM network
+#			HOST = '192.168.101.55' # Likitomi network
 #			HOST = '192.168.1.55' # My own local network: Linksys
 #			HOST = '192.168.2.88' # In Likitomi factory
 			PORT = 50007
@@ -148,11 +148,11 @@ def minclamp(request):
 #			atlocation = 'Scale'
 
 			# MINCLAMP #
-			atlane = '2'
-			atposition = '4'
+			atlane = '3'
+			atposition = '8'
 			atlocation = 'Stock'
 
-			realtag = 00
+			realtag = 67
 
 # Query database from realtag #
 		if realtag:
@@ -235,6 +235,26 @@ def minclamp(request):
 			else:
 				actual_wt = initial_weight
 				undo_btn = ""
+
+# Query paper code and size for assigning tag #
+		scursor1 = connection.cursor()
+		scursor1.execute("""
+			SELECT DISTINCT paper_code
+			FROM weight_paperroll
+			ORDER BY paper_code""")
+		spcode = scursor1.fetchall()
+		spcodelist = list()
+		for pcode in spcode:
+			spcodelist.append(pcode[0])
+		scursor2 = connection.cursor()
+		scursor2.execute("""
+			SELECT DISTINCT width
+			FROM weight_paperroll
+			ORDER BY width""")
+		swidth = scursor2.fetchall()
+		swidthlist = list()
+		for width in swidth:
+			swidthlist.append(width[0])
 
 # Exceptions #
 	except UnboundLocalError: pass
@@ -326,12 +346,12 @@ def minchangeloc(request):
 def maxclamp(request):
 	try:
 # RFID: paper roll and location tags #
-		operating_mode = 'fake' # Operating mode = {'real', 'fake'}
+		operating_mode = 'real' # Operating mode = {'real', 'fake'}
 
 		if operating_mode == 'real':
 
-#			HOST = '192.41.170.55' # CSIM network
-			HOST = '192.168.101.55' # Likitomi network
+			HOST = '192.41.170.55' # CSIM network
+#			HOST = '192.168.101.55' # Likitomi network
 #			HOST = '192.168.1.55' # My own local network: Linksys
 #			HOST = '192.168.2.88' # In Likitomi factory
 			PORT = 50007

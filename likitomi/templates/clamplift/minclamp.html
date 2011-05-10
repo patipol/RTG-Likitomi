@@ -635,7 +635,12 @@ function assignTag()
 	div.appendChild(weight_box);
 
 // Lane Pad //
+	lane_box.onfocus = function() {
+		div.appendChild(lanepad);
+	}
+
 	var lanepad = document.createElement('div');
+	lanepad.id = 'lanepad';
 	lanepad.style.position = 'absolute';
 	lanepad.style.top = '-30px';
 	lanepad.style.left = '170px';
@@ -648,7 +653,7 @@ function assignTag()
 	h.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"H".fontsize(4).bold()+"</td></tr></table>";
 	h.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'H';
+		top.document.getElementById('lane_box').value = 'H';
 	}
 	lanepad.appendChild(h);
 
@@ -659,7 +664,7 @@ function assignTag()
 	g.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"G".fontsize(4).bold()+"</td></tr></table>";
 	g.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'G';
+		top.document.getElementById('lane_box').value = 'G';
 	}
 	lanepad.appendChild(g);
 
@@ -670,7 +675,7 @@ function assignTag()
 	f.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"F".fontsize(4).bold()+"</td></tr></table>";
 	f.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'F';
+		top.document.getElementById('lane_box').value = 'F';
 	}
 	lanepad.appendChild(f);
 
@@ -681,7 +686,7 @@ function assignTag()
 	e.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"E".fontsize(4).bold()+"</td></tr></table>";
 	e.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'E';
+		top.document.getElementById('lane_box').value = 'E';
 	}
 	lanepad.appendChild(e);
 
@@ -692,7 +697,7 @@ function assignTag()
 	d.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"D".fontsize(4).bold()+"</td></tr></table>";
 	d.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'D';
+		top.document.getElementById('lane_box').value = 'D';
 	}
 	lanepad.appendChild(d);
 
@@ -703,7 +708,7 @@ function assignTag()
 	c.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"C".fontsize(4).bold()+"</td></tr></table>";
 	c.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'C';
+		top.document.getElementById('lane_box').value = 'C';
 	}
 	lanepad.appendChild(c);
 
@@ -714,7 +719,7 @@ function assignTag()
 	b.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"B".fontsize(4).bold()+"</td></tr></table>";
 	b.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'B';
+		top.document.getElementById('lane_box').value = 'B';
 	}
 	lanepad.appendChild(b);
 
@@ -725,16 +730,34 @@ function assignTag()
 	a.innerHTML = "<table style='width:100%;'><tr><td style='cursor:pointer;'>"+"A".fontsize(4).bold()+"</td></tr></table>";
 	a.onclick = function()
 	{
-		top.document.getElementById('ilane').value = 'A';
+		top.document.getElementById('lane_box').value = 'A';
 	}
 	lanepad.appendChild(a);
+
+	var current_input;
+
+	function setCurrentInput() {
+		console.log(this);
+		current_input = this;
+	}
+
+	id_box.addEventListener("focus", setCurrentInput);
+	position_box.addEventListener("focus", setCurrentInput);
+	weight_box.addEventListener("focus", setCurrentInput);
 
 // Num Pad //
 	id_box.onfocus = function() {
 		div.appendChild(numpad);
 	}
+	position_box.onfocus = function() {
+		div.appendChild(numpad);
+	}
+	weight_box.onfocus = function() {
+		div.appendChild(numpad);
+	}
 
 	var numpad = document.createElement('div');
+	numpad.id = 'numpad';
 	numpad.style.position = 'absolute';
 	numpad.style.top = '-30px';
 	numpad.style.left = '150px';
@@ -751,11 +774,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '1';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '1';
 	}
 	numpad.appendChild(one);
 
@@ -768,11 +791,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '2';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '2';
 	}
 	numpad.appendChild(two);
 
@@ -785,11 +808,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '3';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '3';
 	}
 	numpad.appendChild(three);
 
@@ -802,11 +825,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '4';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '4';
 	}
 	numpad.appendChild(four);
 
@@ -819,11 +842,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '5';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '5';
 	}
 	numpad.appendChild(five);
 
@@ -836,11 +859,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '6';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '6';
 	}
 	numpad.appendChild(six);
 
@@ -853,11 +876,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '7';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '7';
 	}
 	numpad.appendChild(seven);
 
@@ -870,11 +893,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '8';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '8';
 	}
 	numpad.appendChild(eight);
 
@@ -887,11 +910,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '9';
+		if (current_input.value.length < 4 && trig == 1)
+		current_input.value += '9';
 	}
 	numpad.appendChild(nine);
 
@@ -902,7 +925,7 @@ function assignTag()
 	clr.innerHTML = "<table style='height:100%; width:100%;'><tr><td style='cursor:pointer;'>"+"clr".fontsize(5).bold()+"</td></tr></table>";
 	clr.onclick = function()
 	{
-		top.document.getElementById('id_box').value = '';
+		current_input.value = '';
 	}
 	numpad.appendChild(clr);
 
@@ -915,11 +938,11 @@ function assignTag()
 	{
 		if (trig == 0)
 		{
-			top.document.getElementById('id_box').value = '';
+			current_input.value = '';
 			trig = 1;
 		}
-		if (top.document.getElementById('id_box').value != '' && top.document.getElementById('id_box').value.length < 2 && trig == 1)
-		top.document.getElementById('id_box').value += '0';
+		if (current_input.value != '' && current_input.value.length < 4 && trig == 1)
+		current_input.value += '0';
 	}
 	numpad.appendChild(zero);
 
@@ -930,8 +953,8 @@ function assignTag()
 	bs.innerHTML = "<table style='height:100%; width:100%;'><tr><td style='cursor:pointer;'>"+"bs".fontsize(5).bold()+"</td></tr></table>";
 	bs.onclick = function()
 	{
-		var len = top.document.getElementById('id_box').value.length;
-		top.document.getElementById('id_box').value = top.document.getElementById('id_box').value.substr(0,len-1);
+		var len = current_input.value.length;
+		current_input.value = current_input.value.substr(0,len-1);
 	}
 	numpad.appendChild(bs);
 
@@ -941,14 +964,14 @@ function assignTag()
 	ok.innerHTML = "<table style='height:100%; width:100%;'><tr><td style='cursor:pointer;'>"+"OK".fontsize(5).bold()+"</td></tr></table>";
 	ok.onclick = function()
 	{
-		var lanebox = top.document.getElementById('ilane').value;
+		var lanebox = top.document.getElementById('lane_box').value;
 		var posbox = top.document.getElementById('iposition').value;
 		if (parseInt(posbox) <= 13) {
 //			alert(lanebox);
 //			alert(posbox);
-			document.getElementById("ilane").value = lanebox;
+			document.getElementById("lane_box").value = lanebox;
 			document.getElementById("ipos").value = posbox;
-//			alert(document.getElementById("ilane").value);
+//			alert(document.getElementById("lane_box").value);
 //			alert(document.getElementById("ipos").value);
 			document.getElementById("frm3").submit();
 			top.document.body.removeChild(top.document.getElementById('layer'));
@@ -1057,23 +1080,3 @@ function assignTag()
 
 </body>
 </html>
-<script type="text/javascript">
-var id_box = document.createElement('input');
-id_box.id = 'id_box';
-id_box.type = 'text';
-div.appendChild(id_box);
-
-var weight_box = document.createElement('input');
-weight_box.id = 'weight_box';
-weight_box.type = 'text';
-div.appendChild(weight_box);
-
-function showLetter() {
-	if (id_box is being focused) {document.getElementById('id_box').value = 'ABC'}
-	if (weight_box is being focused) {document.getElementById('id_box').value = 'ABC'}
-}
-</script>
-
-<body>
-	<button onclick="showLetter()">ABC</button>
-</body>

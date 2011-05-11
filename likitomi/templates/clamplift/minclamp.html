@@ -515,7 +515,7 @@ function assignTag()
 	div.style.position = (navigator.userAgent.indexOf('MSIE 6') > -1) ? 'absolute' : 'fixed';
 	div.style.top = '85px'; 
 	div.style.left = '200px'; 
-	div.style.height = '430px';
+	div.style.height = '400px';
 	div.style.width = '300px';
 	div.style.backgroundColor = 'lightgray';
 	div.style.opacity = '1';
@@ -556,6 +556,7 @@ function assignTag()
 	var pcode_form = document.createElement('form');
 	pcode_box.appendChild(pcode_form);
 	var pcode_select = document.createElement('select');
+	pcode_select.id = 'pcode_select';
 	pcode_select.style.height = '30px';
 	pcode_form.appendChild(pcode_select);
 	var i = 0;
@@ -581,6 +582,7 @@ function assignTag()
 	var size_form = document.createElement('form');
 	size_box.appendChild(size_form);
 	var size_select = document.createElement('select');
+	size_select.id = 'size_select';
 	size_select.style.height = '30px';
 	size_form.appendChild(size_select);
 	var i = 0;
@@ -635,16 +637,17 @@ function assignTag()
 	div.appendChild(weight_box);
 
 // Lane Pad //
-	lane_box.onfocus = function() {
-		div.appendChild(lanepad);
-	}
+//	lane_box.onfocus = function() {
+//		div.appendChild(lanepad);
+//	}
 
 	var lanepad = document.createElement('div');
 	lanepad.id = 'lanepad';
 	lanepad.style.position = 'absolute';
-	lanepad.style.top = '-30px';
+	lanepad.style.top = '-40px';
 	lanepad.style.left = '170px';
-//	div.appendChild(lanepad);
+	lanepad.style.visibility = 'hidden';
+	div.appendChild(lanepad);
 
 	var h = document.createElement('a');
 	h.id = 'lanebtn';
@@ -739,29 +742,46 @@ function assignTag()
 	function setCurrentInput() {
 		console.log(this);
 		current_input = this;
+		numpad.style.visibility = 'visible';
+		lanepad.style.visibility = 'hidden';
+		div.style.width = '410px';
+	}
+	function showLanepad() {
+		lanepad.style.visibility = 'visible';
+		numpad.style.visibility = 'hidden';
+		div.style.width = '300px';
+	}
+	function hidePad() {
+		lanepad.style.visibility = 'hidden';
+		numpad.style.visibility = 'hidden';
+		div.style.width = '300px';
 	}
 
 	id_box.addEventListener("focus", setCurrentInput);
 	position_box.addEventListener("focus", setCurrentInput);
 	weight_box.addEventListener("focus", setCurrentInput);
+	lane_box.addEventListener("focus", showLanepad);
+	pcode_select.addEventListener("focus", hidePad);
+	size_select.addEventListener("focus", hidePad);
 
 // Num Pad //
-	id_box.onfocus = function() {
-		div.appendChild(numpad);
-	}
-	position_box.onfocus = function() {
-		div.appendChild(numpad);
-	}
-	weight_box.onfocus = function() {
-		div.appendChild(numpad);
-	}
+//	id_box.onfocus = function() {
+//		div.appendChild(numpad);
+//	}
+//	position_box.onfocus = function() {
+//		div.appendChild(numpad);
+//	}
+//	weight_box.onfocus = function() {
+//		div.appendChild(numpad);
+//	}
 
 	var numpad = document.createElement('div');
 	numpad.id = 'numpad';
 	numpad.style.position = 'absolute';
-	numpad.style.top = '-30px';
-	numpad.style.left = '150px';
-//	div.appendChild(numpad);
+	numpad.style.top = '-40px';
+	numpad.style.left = '20px';
+	numpad.style.visibility = 'hidden';
+	div.appendChild(numpad);
 
 	var trig = 0;
 
@@ -964,8 +984,13 @@ function assignTag()
 	ok.innerHTML = "<table style='height:100%; width:100%;'><tr><td style='cursor:pointer;'>"+"OK".fontsize(5).bold()+"</td></tr></table>";
 	ok.onclick = function()
 	{
-		var lanebox = top.document.getElementById('lane_box').value;
-		var posbox = top.document.getElementById('iposition').value;
+		var idval = top.document.getElementById('id_box').value;
+		var pcodeval = top.document.getElementById('pcode_select').value;
+		var sizeval = top.document.getElementById('size_select').value;
+		var laneval = top.document.getElementById('lane_box').value;
+		var positionval = top.document.getElementById('position_box').value;
+		var weightval = top.document.getElementById('weight_box').value;
+//		alert(idval+', '+pcodeval+', '+sizeval+', '+laneval+', '+positionval+', '+weightval);
 		if (parseInt(posbox) <= 13) {
 //			alert(lanebox);
 //			alert(posbox);

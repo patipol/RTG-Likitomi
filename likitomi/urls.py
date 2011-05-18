@@ -14,7 +14,7 @@ from weight.scale_views import scale
 from weight.views import index, dashboard
 from weight.showplan import showplan, required, detail
 from weight.inventory import inventory
-from weight.minclamp import minclamp, minupdate, minundo, minchangeloc, maxclamp, maxupdate, maxundo, maxchangeloc
+from weight.minclamp import minclamp, minupdate, minundo, minchangeloc, maxclamp, maxupdate, maxundo, maxchangeloc, assigntag
 from weight.legend import legend
 #from weight.clamplift_views import clamplift, update, undo, changeloc
 #from weight.plan_views import plan, wholeplan
@@ -93,6 +93,8 @@ urlpatterns = patterns('',
 	(r'^minclamp/undo/$', minundo),
 	(r'^minclamp/changeloc/$', minchangeloc),
 	(r'^minclamp/changeloc/(?P<path>.*)$', 'django.views.static.serve', {'document_root': 'static'}),
+	(r'^minclamp/assigntag/$', assigntag),
+	(r'^minclamp/assigntag/(?P<path>.*)$', 'django.views.static.serve', {'document_root': 'static'}),
 	(r'^minclamp/(?P<path>.*)$', 'django.views.static.serve', {'document_root': 'static'}),
 	(r'^maxclamp/$', maxclamp),
 	(r'^maxclamp/update/$', maxupdate),
